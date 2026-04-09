@@ -8,5 +8,9 @@ filters:
   url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
   name: AdAway Default Blocklist
   id: 2
+- enabled: true
+  url: https://raw.githubusercontent.com/WSF-Team/WSF/refs/heads/main/documents/dns/domains/Denylist-U.txt
+  name: revoke/update
+  id: 1775697480
 whitelist_filters: []
 user_rules: []
