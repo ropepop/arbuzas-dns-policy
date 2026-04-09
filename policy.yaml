@@ -20,5 +20,9 @@ filters:
   url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
   name: AdGuard DNS Popup Hosts filter
   id: 1775697483
+- enabled: true
+  url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt
+  name: 1Hosts (Lite)
+  id: 1775700326
 whitelist_filters: []
 user_rules: []
